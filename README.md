@@ -6,4 +6,4 @@ The results were as expected, higher initial investment over a longer time perio
 
 An extension to his exercise would be to incorporate periodic investments with and without an initial investment. 
 
-NOTE: The Alpaca API allows 1000 samples to be downloaded per symbol.  This corresponds to ~3.9 years of data.  Overall, given the dynamics and black swan events over the last 3 years, 3 years of historical data is more appropriate than 5 years to perform these simulations.  
+NOTE: The Alpaca API now allows a maximum of 1000 samples to be downloaded per symbol.  This corresponds to ~3.9 years of data.  Overall, given the dynamics and black swan events over the last 3 years, 3 years of historical data is more appropriate than 5 years to perform these simulations.  
